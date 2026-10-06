@@ -1,0 +1,25 @@
+{
+  "name": "NutriFit Daily",
+  "short_name": "NutriFit",
+  "description": "Nutrition, Weight & Activity Tracker",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#3c8d40",
+  "background_color": "#f8fff8",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
